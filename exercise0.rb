@@ -7,6 +7,8 @@ fav_colors1 = [red, green, yellow, blue, orange]
 
 #Hashs
 fav_movie = [title: => "Rush",:director => "Ron Howard", :year => "2013"]
+fav_movie2 = [title: => "Rush",:director => "Ron Howard", :year => "2013"]
+fav_movie3 = [title: => "Rush",:director => "Ron Howard", :year => "2013"]
 cities = {:Sydney => 4293000, :Paris => 2240000, :Toronto => 2610000}
 sibling1 = [:name => "Kelsey", :age => "22", :relation => "sister"]
 sibling2 = [:name => "Mackenzie", :age => "17", :relation => "sister"]
