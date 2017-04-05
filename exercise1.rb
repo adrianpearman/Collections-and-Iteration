@@ -3,12 +3,12 @@ age = [22, 23, 56, 21, 78]
 fav_movie = {:title => "Rush", :director => "Ron Howard", :year => "2013"}
 
 print coin_result
-puts "\\"
+puts "\n"
 puts coin_result[0]
-puts "\\"
+puts "\n"
 print age.sort
-puts "\\"
+puts "\n"
 age << 0
 print age
-puts "\\"
+puts "\n"
 puts fav_movie[:year]
